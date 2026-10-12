@@ -1,58 +1,111 @@
-<h1 align="center">👋 Ciao, sono HubDevCode</h1>
-
+<!-- HEADER ANIMATO -->
 <p align="center">
-  Sviluppatore appassionato di programmazione, Linux e strumenti open source.<br>
-  Mi piace costruire cose utili e imparare qualcosa di nuovo ogni giorno.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=240&section=header&text=HubDevCode&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%E2%80%A2%20Linux%20%E2%80%A2%20Rust%20%E2%80%A2%20AI&descSize=20&descAlignY=60" width="100%" />
 </p>
 
----
+<!-- TESTO CHE SI SCRIVE DA SOLO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=Ciao%2C+sono+HubDevCode+%F0%9F%91%BE;Sviluppatore+C%2B%2B+%26+Python+%F0%9F%92%BB;Costruisco+tool+per+Linux+in+Rust+%F0%9F%A6%80;Uso+l'AI+per+programmare+pi%C3%B9+velocemente+%F0%9F%A4%96" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-00F0FF?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-FF00E5?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Powered-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-00F0FF?style=for-the-badge&logo=opensourceinitiative&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HubDevCode&label=Visite+al+profilo&color=ff00e5&style=for-the-badge" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⚡ Chi sono
+
+```rust
+struct HubDevCode {
+    linguaggi: Vec<&'static str>,
+    sistema:   &'static str,
+    usa_ai:    bool,
+}
+
+let io = HubDevCode {
+    linguaggi: vec!["C++", "Python", "HTML", "C#", "Rust"],
+    sistema:   "Linux",
+    usa_ai:    true, // 🤖 sempre al mio fianco
+};
+```
 
 ## 🛠️ Le Mie Competenze di Programmazione
 
-| Linguaggio | Livello | Progresso |
-|------------|:-------:|-----------|
-| **C++** | 84% | ![C++](https://geps.dev/progress/84) |
-| **Python** | 80% | ![Python](https://geps.dev/progress/80) |
-| **HTML** | 70% | ![HTML](https://geps.dev/progress/70) |
-| **C#** | 65% | ![C#](https://geps.dev/progress/65) |
-| **CSS** | 35% | ![CSS](https://geps.dev/progress/35) |
-| **VB** | 35% | ![VB](https://geps.dev/progress/35) |
-| **PHP** | 25% | ![PHP](https://geps.dev/progress/25) |
-| **JavaScript** | 10% | ![JavaScript](https://geps.dev/progress/10) |
-| **Java** | 8% | ![Java](https://geps.dev/progress/8) |
-| **Lua** | 5% | ![Lua](https://geps.dev/progress/5) |
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-84%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-70%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-65%25-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,cs,css,php,rust,js,java,lua,linux,git&perline=12" />
 </p>
 
----
+| Linguaggio | Livello | Progresso |
+|:-----------|:-------:|:----------|
+| 🔷 **C++** | `84%` | ![](https://geps.dev/progress/84?dangerColor=00F0FF&warningColor=00F0FF&successColor=00F0FF) |
+| 🐍 **Python** | `80%` | ![](https://geps.dev/progress/80?dangerColor=FF00E5&warningColor=FF00E5&successColor=FF00E5) |
+| 🌐 **HTML** | `70%` | ![](https://geps.dev/progress/70?dangerColor=7C3AED&warningColor=7C3AED&successColor=7C3AED) |
+| 🟣 **C#** | `65%` | ![](https://geps.dev/progress/65?dangerColor=00F0FF&warningColor=00F0FF&successColor=00F0FF) |
+| 🎨 **CSS** | `35%` | ![](https://geps.dev/progress/35?dangerColor=FF00E5&warningColor=FF00E5&successColor=FF00E5) |
+| 📘 **VB** | `35%` | ![](https://geps.dev/progress/35?dangerColor=7C3AED&warningColor=7C3AED&successColor=7C3AED) |
+| 🐘 **PHP** | `25%` | ![](https://geps.dev/progress/25?dangerColor=00F0FF&warningColor=00F0FF&successColor=00F0FF) |
+| 🦀 **Rust** | `15%` | ![](https://geps.dev/progress/15?dangerColor=FF00E5&warningColor=FF00E5&successColor=FF00E5) |
+| 🟨 **JavaScript** | `10%` | ![](https://geps.dev/progress/10?dangerColor=7C3AED&warningColor=7C3AED&successColor=7C3AED) |
+| ☕ **Java** | `8%` | ![](https://geps.dev/progress/8?dangerColor=00F0FF&warningColor=00F0FF&successColor=00F0FF) |
+| 🌙 **Lua** | `5%` | ![](https://geps.dev/progress/5?dangerColor=FF00E5&warningColor=FF00E5&successColor=FF00E5) |
+
+## 🤖 Uso l'Intelligenza Artificiale
+
+Integro l'AI nel mio modo di programmare per lavorare meglio e più in fretta:
+
+- 💡 **Generazione e revisione del codice** per accelerare lo sviluppo
+- 🐛 **Debug e ottimizzazione** di problemi complessi
+- 📚 **Apprendimento** di nuovi linguaggi e tecnologie (come Rust 🦀)
+- 🧪 **Sperimentazione** con strumenti AI nei miei progetti
 
 ## 🚀 Progetti in evidenza
 
-- 🎚️ **[FineTune-Linux](https://github.com/HubDevCode/FineTune-Linux)** — Controllo del volume per singola applicazione, boost fino a 4×, routing multi-dispositivo ed equalizzazione a 10 bande per Linux. *(Rust)*
-- 🖥️ **[claude-desktop-bridge](https://github.com/HubDevCode/claude-desktop-bridge)** — Mostra il desktop Linux in una scheda del browser (wayvnc + noVNC) per controllarlo con l'estensione Claude in Chrome. Testato su Hyprland. *(HTML)*
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎚️ <a href="https://github.com/HubDevCode/FineTune-Linux">FineTune-Linux</a></h3>
+      Controllo del volume per singola applicazione, boost fino a 4×, routing multi-dispositivo ed equalizzazione a 10 bande per Linux.<br><br>
+      <img src="https://img.shields.io/badge/Rust-FF00E5?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-00F0FF?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖥️ <a href="https://github.com/HubDevCode/claude-desktop-bridge">claude-desktop-bridge</a></h3>
+      Mostra il desktop Linux in una scheda del browser (wayvnc + noVNC) per controllarlo con l'estensione Claude in Chrome. Testato su Hyprland.<br><br>
+      <img src="https://img.shields.io/badge/HTML-7C3AED?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-00F0FF?style=flat-square&logo=anthropic&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ## 📊 Statistiche GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HubDevCode&show_icons=true&theme=dark&hide_border=true" alt="Statistiche GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HubDevCode&layout=compact&theme=dark&hide_border=true" alt="Linguaggi più usati" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HubDevCode&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&text_color=E6EDF3" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HubDevCode&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=E6EDF3" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HubDevCode&theme=dark&hide_border=true&background=0D1117&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HubDevCode&bg_color=0D1117&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
 
 ## 📫 Contatti
 
-- 🔗 GitHub: [@HubDevCode](https://github.com/HubDevCode)
-
----
+<p align="center">
+  <a href="https://github.com/HubDevCode"><img src="https://img.shields.io/badge/GitHub-HubDevCode-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF" /></a>
+</p>
 
 <p align="center">
-  ⭐ Se qualche mio progetto ti è utile, lascia una stella!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=140&section=footer" width="100%" />
 </p>
