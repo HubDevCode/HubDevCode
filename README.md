@@ -77,10 +77,25 @@ I integrate AI into the way I code to work better and faster:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎚️ <a href="https://github.com/HubDevCode/FineTune-Linux">FineTune-Linux</a></h3>
-      Per-application volume control, up to 4× boost, multi-device routing and 10-band equalizer for Linux.<br><br>
+      <h3>🎛️ <a href="https://github.com/HubDevCode/RoadBoard">RoadBoard</a></h3>
+      An 8 × 8 virtual audio mixing console for Linux built on PipeWire: mix mics, apps and sound cards, route any source to any output, add effects, record, stream over the network and control everything from scripts, MIDI or macro buttons.<br><br>
+      <img src="https://img.shields.io/badge/C%2B%2B-00F0FF?style=flat-square&logo=cplusplus&logoColor=black" />
+      <img src="https://img.shields.io/badge/PipeWire-00F0FF?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌈 <a href="https://github.com/HubDevCode/SynthVis-for-linux">SynthVis-for-linux</a></h3>
+      Fullscreen real-time audio visualizer for Linux, inspired by Synesthesia: 80 reactive scenes, beat-synced transitions, scene blending, autopilot, global effects, presets, playlists and MIDI.<br><br>
       <img src="https://img.shields.io/badge/Rust-FF00E5?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/GLSL-7C3AED?style=flat-square&logo=opengl&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-00F0FF?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎚️ <a href="https://github.com/HubDevCode/FineTune-Linux">FineTune-Linux</a></h3>
+      Per-app volume control, boost up to 4×, routing to different speakers, EQ and headphone correction. Lives in your system tray. Built for PipeWire.<br><br>
+      <img src="https://img.shields.io/badge/Python-FF00E5?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PipeWire-00F0FF?style=flat-square&logo=linux&logoColor=black" />
     </td>
     <td width="50%" valign="top">
       <h3>🖥️ <a href="https://github.com/HubDevCode/claude-desktop-bridge">claude-desktop-bridge</a></h3>
@@ -146,10 +161,25 @@ Integro l'AI nel mio modo di programmare per lavorare meglio e più in fretta:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎚️ <a href="https://github.com/HubDevCode/FineTune-Linux">FineTune-Linux</a></h3>
-      Controllo del volume per singola applicazione, boost fino a 4×, routing multi-dispositivo ed equalizzazione a 10 bande per Linux.<br><br>
+      <h3>🎛️ <a href="https://github.com/HubDevCode/RoadBoard">RoadBoard</a></h3>
+      Mixer audio virtuale 8 × 8 per Linux basato su PipeWire: mixa microfoni, applicazioni e schede audio, invia ogni sorgente a qualsiasi uscita, aggiungi effetti, registra, trasmetti l'audio in rete e controlla tutto da script, MIDI o pulsanti macro.<br><br>
+      <img src="https://img.shields.io/badge/C%2B%2B-00F0FF?style=flat-square&logo=cplusplus&logoColor=black" />
+      <img src="https://img.shields.io/badge/PipeWire-00F0FF?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌈 <a href="https://github.com/HubDevCode/SynthVis-for-linux">SynthVis-for-linux</a></h3>
+      Visualizzatore audio a schermo intero per Linux, ispirato a Synesthesia: 80 scene reattive in tempo reale, transizioni a tempo di beat, fusione delle scene, autopilota, effetti globali, preset, playlist e MIDI.<br><br>
       <img src="https://img.shields.io/badge/Rust-FF00E5?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/GLSL-7C3AED?style=flat-square&logo=opengl&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-00F0FF?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎚️ <a href="https://github.com/HubDevCode/FineTune-Linux">FineTune-Linux</a></h3>
+      Volume per singola applicazione, boost fino a 4×, routing su altoparlanti diversi, equalizzatore e correzione per cuffie. Vive nella system tray. Fatto per PipeWire.<br><br>
+      <img src="https://img.shields.io/badge/Python-FF00E5?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PipeWire-00F0FF?style=flat-square&logo=linux&logoColor=black" />
     </td>
     <td width="50%" valign="top">
       <h3>🖥️ <a href="https://github.com/HubDevCode/claude-desktop-bridge">claude-desktop-bridge</a></h3>
