@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HubDevCode&label=Profile+views&color=ff00e5&style=for-the-badge" />
+  <iframe src="https://github.com/sponsors/HubDevCode/button" title="Sponsor HubDevCode" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 </p>
 
 <p align="center">
