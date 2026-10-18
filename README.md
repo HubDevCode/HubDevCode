@@ -15,7 +15,11 @@
   <img src="https://img.shields.io/badge/Open%20Source-00F0FF?style=for-the-badge&logo=opensourceinitiative&logoColor=black" />
 </p>
 
-<p align="center"><iframe src="https://github.com/sponsors/HubDevCode/button" title="Sponsor HubDevCode" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe></p>
+<p align="center">
+  <a href="https://github.com/sponsors/HubDevCode">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-DB61A2?logo=github" alt="Sponsor HubDevCode" />
+  </a>
+</p>
 
 <p align="center">
   🇬🇧 <b>English</b> (default) &nbsp;|&nbsp; 🇮🇹 <b>Italiano</b> → <i>scroll down / scorri in basso</i>
